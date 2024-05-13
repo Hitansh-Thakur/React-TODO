@@ -1,8 +1,18 @@
-# React + Vite
+<!-- this is a learn in public concept project where i will make a todo app in react and post every day progress online on twitter -->
+# Learn in Public - React Todo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a learn in public concept project where I will make a todo app in react and post every day progress online on twitter.
 
-Currently, two official plugins are available:
+## Day 1
+- Created a new react app using vite `npx create-vite@latest react-todo-app`
+- Added simple todo list fuctionalities
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+> I have added the following functionalities
+- Added delete button to delete all todos
+- user can add new todo by typing in the input field and clicking on the add button
+- user can click on a todo to mark it as completed a strike through line will appear on the todo
+user can click on the ClearAll button to delete all todos
+
+<!-- screen shot -->
+![Day 1](./ss/day1.png)
+
