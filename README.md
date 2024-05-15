@@ -16,3 +16,20 @@ user can click on the ClearAll button to delete all todos
 <!-- screen shot -->
 ![Day 1](./ss/day1.png)
 
+
+## Day 2
+<!--learned how to use components in react and how to pass props. added styling theme using tailwind css and added fuctionality of deleting a single task -->
+- Learned how to use components in react and how to pass props.
+- Added styling theme using tailwind css
+- Added functionality of deleting a single task
+
+> I have added the following functionalities
+- Added a new component `Button` and `Heading`
+- Added a new button to delete a single task
+- clicking on the task will toggle the task as completed
+
+<!-- screen shot -->
+![Day 2](./ss/day2.png)
+<!-- video -->
+[Day 2 (Video)](./videos/day2.mp4)
+
