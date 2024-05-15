@@ -20,8 +20,7 @@ user can click on the ClearAll button to delete all todos
 ## Day 2
 <!--learned how to use components in react and how to pass props. added styling theme using tailwind css and added fuctionality of deleting a single task -->
 - Learned how to use components in react and how to pass props.
-- Added styling theme using tailwind css
-- Added functionality of deleting a single task
+    - Added styling theme using tailwind css
 
 > I have added the following functionalities
 - Added a new component `Button` and `Heading`
